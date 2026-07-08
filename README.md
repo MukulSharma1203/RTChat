@@ -142,4 +142,3 @@ Open an issue or submit a pull request. Keep changes focused and include tests w
 ## License
 
 This repository does not include a license file. Add one if you intend to make this project public.
-# RTChat
