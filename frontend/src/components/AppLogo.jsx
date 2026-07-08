@@ -1,4 +1,4 @@
-export const APP_NAME = "iMessage";
+export const APP_NAME = "RTChat";
 
 export function AppLogo({ className = "", size = 32, alt = APP_NAME }) {
   return (
